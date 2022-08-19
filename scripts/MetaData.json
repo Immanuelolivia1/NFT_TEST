@@ -1,0 +1,19 @@
+{
+    "name": "Juliets NFT",
+    "description": "My Rare NFT deployed to goerli testnet", 
+    "image": "https://ipfs.io/ipfs/QmVNDvqPpaJrHmh9q5iB8eLJe3cpZkXoZvt7Uk9jnwiX13?filename=myNFT.jpg", 
+    "attributes": [
+      {
+        "trait_type": "Colour", 
+        "value": "Mixed"
+      }, 
+      {
+        "trait_type": "Coolness", 
+        "value": "A lot!"
+      }, 
+      {
+        "trait_type": "Token Standard", 
+        "value": "ERC721"
+      }
+    ]
+  }
